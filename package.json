@@ -1,0 +1,15 @@
+{
+  "name": "money-bot-swag",
+  "version": "1.0.0",
+  "description": "A small chatbot which will teach you basic stuff about investment of your capital",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Florian Heiwig",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^4.3.0"
+  }
+}
